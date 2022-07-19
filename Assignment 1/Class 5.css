@@ -1,0 +1,39 @@
+/* body {
+    background-color: rgb(221, 255, 0);
+}
+#h1 {
+    background-color:blue;
+}
+.h2 {
+    background-color: aquamarine;
+}
+p {
+    background-color: brown;
+}
+body, #h1, .h2, p {
+    background-color: chartreuse;
+} */
+/* p~h4 {
+    background-color:aqua;
+} */
+/* a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color: brown;
+}
+a:visited{
+    color: chartreuse;
+} */
+/* input[type="text"]:focus{
+    background-color: blue;
+}
+input[type="text"]:disabled{
+    background-color: blue;
+}
+p:nth-child(3){
+    color: blueviolet;
+} */
